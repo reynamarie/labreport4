@@ -2,7 +2,7 @@
 
 ## Step 4
 
-!{Image.logginging.jpg]
+![Image](logginging.jpg)
 <ssh><space><rmaharaj@ieng6-203.ucsd.edu>
 <enter>
 
