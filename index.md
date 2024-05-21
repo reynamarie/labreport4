@@ -2,15 +2,16 @@
 
 ## Step 4
 
-![Image](logginging.jpg)
-<ssh><space><rmaharaj@ieng6-203.ucsd.edu>
+![Image](ahahello.jpg)
+<ssh><space>
+<rmaharaj@ieng6.ucsd.edu>
 <password><enter>
 
 
 
 <ssh><space><rmaharaj@ieng6-203.ucsd.edu>
 
-notes: letting me loggin to rmaharaj@ieng6-203.ucsd.edu, but not rmaharaj@ieng6.ucsd.edu
+
 
 
 
@@ -22,5 +23,6 @@ notes: letting me loggin to rmaharaj@ieng6-203.ucsd.edu, but not rmaharaj@ieng6.
 
 
 ## Step 5
+![Image](secondpart.jpg)
 
 <git clone> <git@github.com:ucsd-cse15l-s24/lab7.git>
