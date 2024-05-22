@@ -3,6 +3,7 @@
 ## Step 4
 
 ![Image](ahahello.jpg)
+
 Keys pressed: `ssh<space>rmaharaj@ieng6.ucsd.edu<enter>`
 The  command  `ssh` allows me to log into the remote server `ieng6.ucsd.edu` using the username `rmaharaj` after pressing enter. Then, I pressed <enter> to log in and further execute commands there.
 
@@ -17,18 +18,21 @@ This command clones the repository from GitHub into ieng6 server, which is the c
 
 ## Step 6
 ![Image](testfailnow.jpg)
+
 Keys pressed: `bash<space>test.sh<enter>`
 The command bash<space>test.sh<enter> runs the bash script `test.sh`. The effect of this is to compile and run the tests. This shows that two tests ran and one of them failed. The `<space>` key  is used to separate the different parts of the command line.  The `<enter>` key is used to run the tests.
 
 
 ## Step 7
 ![Image](testpassed.jpg)
+
 Keys pressed: `<delete>2`
 This command fixes the bug in the `merge function` that was given to us in step 6 by changing the code to increment by `index2` instead of by `index1`. This effect was having the code increment correctly so that our test passed. 
 
 
 ## Step 8
 ![Image](testbash.jpg)
+
 Keys pressed: `bash<space>test.sh<enter>`
 This command runs my tests again. This time the tests pass. The `<space>` key separates `bash` from its argument.  key The `<enter>` key executes the tests. 
 
