@@ -3,7 +3,7 @@
 ## Step 4
 
 ![Image](ahahello.jpg)
-Keys pressed: ssh`<space>`rmaharaj@ieng6.ucsd.edu`<enter>`
+Keys pressed: `ssh``<space>``rmaharaj@ieng6.ucsd.edu``<enter>`
 
 
 ## Step 5
