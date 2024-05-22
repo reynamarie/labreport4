@@ -19,15 +19,15 @@ This command clones the lab7 repository that I forked from GitHub into ieng6 ser
 ![Image](iengfail.jpg)
 
 Keys pressed: `bash<space>test.sh<enter>`
-The command bash<space>test.sh<enter> runs the bash script `test.sh`. The effect of this is to compile and run the tests. This shows that two tests ran and one of them failed. The `<space>` key  is used to separate the different parts of the command line.  The `<enter>` key is used to run the tests.
+The command `bash<space>test.sh<enter>` runs the `bash` script `test.sh`. The effect of this is to compile and run the tests. This shows that two tests ran and one of them failed. The `<space>` key  is used to separate the different parts of the command line.  The `<enter>` key is used to run the tests.
 
 
 ## Step 7
 ![Image](newpasstest.jpg)
 
 Keys pressed: `vim<space>ListExamples.java<enter>``<i><k><k><k><k><k><k><l><l><l><l><l><l><l><delete>2` `:wq!<enter>`
-The  `vim<space>ListExamples.java<enter>` command allows us to edit the code in `ListExamples.java` in vim, using just the command line in the terminal. 
-This command fixes the bug in the `merge function` that was given to us in step 6 by changing the code to increment by `index2` instead of by `index1`. This effect was having the code increment correctly so that our test pass. The effect of `<i>` in vim is so that we are in insert mode and can edit the code. The effect of `<k>` in vim allows our cursor to go up one line with each `<k>` key pressed. The effect of `<l>` in vim allows our cursor to go right. Then I used the key `<delete>` and then pressed `2` so that the code correctly incremented.  Since the bug is fixed, I typed `:wq!` to save the changes we made and quit. 
+The  `vim<space>ListExamples.java<enter>` command allows us to edit the code in `ListExamples.java` in `vim`, using just the command line in the terminal. 
+This command fixes the bug in the `merge function` that was given to us in step 6 by changing the code to increment by `index2` instead of by `index1`. This effect was having the code increment correctly so that our test pass. The effect of `<i>` in `vim` is so that we are in insert mode and can edit the code. The effect of `<k>` in `vim` allows our cursor to go up one line with each `<k>` key pressed. The effect of `<l>` in `vim` allows our cursor to go right. Then I used the key `<delete>` and then pressed `2` so that the code correctly incremented.  Since the bug is fixed, I typed `:wq!` to save the changes we made and quit. 
 
 ## Step 8
 ![Image](logieng6.jpg)
