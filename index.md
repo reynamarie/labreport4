@@ -3,18 +3,17 @@
 ## Step 4
 
 ![Image](ahahello.jpg)
-ssh<space>rmaharaj@ieng6.ucsd.edu<enter>
+Keys pressed: ssh`<space>`rmaharaj@ieng6.ucsd.edu`<enter>`
 
 
 ## Step 5
 ![Image](secondpart.jpg)
 
-git`<space>`clone<space>git@github.com:ucsd-cse15l-s24/lab7.git<enter>
+Keys pressed: git`<space>`clone`<space>`git@github.com:ucsd-cse15l-s24/lab7.git`<enter>`
 
 ## Step 6
 ![Image](testfailnow.jpg)
-
-keys pressed: bash<space>test.sh<enter>
+Keys pressed: bash<space>test.sh<enter>
 
 
 ## Step 7
@@ -23,6 +22,6 @@ Keys pressed: <delete>1 2
 
 ## Step 8
 ![Image](testbash.jpg)
-bash<enter>tesh.sh
+Keys pressed: bash<enter>tesh.sh
 
 
