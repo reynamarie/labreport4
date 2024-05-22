@@ -28,7 +28,7 @@ The command bash<space>test.sh<enter> runs the bash script `test.sh`. The effect
 
 Keys pressed: `<delete>2`
 This command fixes the bug in the `merge function` that was given to us in step 6 by changing the code to increment by `index2` instead of by `index1`. This effect was having the code increment correctly so that our test passed. 
-fix explanantion
+fix explanation
 
 ## Step 8
 ![Image](logieng6.jpg)
@@ -38,5 +38,5 @@ This command runs my tests again. This time the tests pass. The `<space>` key se
 ## Step 9
 ![Image](commitandpush.jpg)
 Keys pressed: `git<space>add<space>.` `git<space>commit<space>-m<space>" hi there "` `git<space>push` 
-The command `git<space>commit<space>-m<space>` commits my change to the repository, with my new message, hi there. The `git push` command updates via pushing the command line message to the local repository and then updates it to the remote repository, which will allow for these changes to be seen. The `<space>` keys separate all of the other parts of the command line. The `<enter>` key pressed executes the command. 
-explain add 
+The `git<space>add<space>.` command prepares the files to be altered. The command `git<space>commit<space>-m<space>` commits my change to the repository, with my new message, hi there. The `git push` command updates via pushing the command line message to the local repository and then updates it to the remote repository, which will allow for these changes to be seen. The `<space>` keys separate all of the other parts of the command line. The effect of using the `<enter>` key is that it executes the command.  
+
