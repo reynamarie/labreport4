@@ -18,11 +18,11 @@ keys pressed: bash<space>test.sh<enter>
 
 
 ## Step 7
-![Image](.jpg)
+![Image](testpassed.jpg)
 Keys pressed: <delete>1 2 
 
 ## Step 8
-![Image](.jpg)
+![Image](testbash.jpg)
 bash<enter>tesh.sh
 
 
