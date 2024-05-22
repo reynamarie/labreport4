@@ -5,8 +5,7 @@
 ![Image](loginieng6.jpg)
 
 Keys pressed: `ssh<space>rmaharaj@ieng6.ucsd.edu<enter>`
-The  command  `ssh` allows me to log into the remote server ieng6.ucsd.edu` using the username rmaharaj after pressing enter. Then, I pressed <enter> to log in and further execute command lines there.
-
+The  command  `ssh` allows me to log into the remote server ieng6.ucsd.edu using my username after pressing `<enter>`. I do this to edit my files in the command lines on the ieng6 server. 
 
 
 ## Step 5
