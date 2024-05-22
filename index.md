@@ -24,7 +24,7 @@ The command bash<space>test.sh<enter> runs the bash script `test.sh`. The effect
 
 
 ## Step 7
-![Image](testpassed.jpg)
+![Image](newpasstest.jpg)
 Keys pressed: `<delete>2`
 This command fixes the bug in the `merge function` that was given to us in step 6 by changing the code to increment by `index2` instead of by `index1`. This effect was having the code increment correctly so that our test passed. 
 
