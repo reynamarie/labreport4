@@ -12,7 +12,7 @@ ssh<space>rmaharaj@ieng6.ucsd.edu<enter>
 git<space>clone<space>git@github.com:ucsd-cse15l-s24/lab7.git<enter>
 
 ## Step 6
-![Image](testfail.jpg)
+![Image](testfailnow.jpg)
 
 keys pressed: bash<space>test.sh<enter>
 
