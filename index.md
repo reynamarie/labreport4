@@ -27,7 +27,7 @@ The command `bash<space>test.sh<enter>` runs the `bash` script `test.sh`. The ef
 
 Keys pressed: `vim<space>ListExamples.java<enter>``<i><k><k><k><k><k><k><l><l><l><l><l><l><l><delete>2` `:wq!<enter>`
 The  `vim<space>ListExamples.java<enter>` command allows us to edit the code in `ListExamples.java` in `vim`, using just the command line in the terminal. 
-This command fixes the bug in the `merge function` that was given to us in step 6 by changing the code to increment by `index2` instead of by `index1`. This effect was having the code increment correctly so that our test pass. The effect of `<i>` in `vim` is so that we are in insert mode and can edit the code. The effect of `<k>` in `vim` allows our cursor to go up one line with each `<k>` key pressed. The effect of `<l>` in `vim` allows our cursor to go right. Then I used the key `<delete>` and then pressed `2` so that the code correctly incremented.  Since the bug is fixed, I typed `:wq!` to save the changes we made and quit. 
+This command fixes the bug in the `merge function` that was given to us in step 6 by changing the code to increment by `index2` instead of by `index1`. This effect was having the code increment correctly so that our test pass. The effect of `<i>` in `vim` is so that we are in insert mode and can edit the code. The effect of `<k>` in `vim` allows our cursor to go up one line with each `<k>` key pressed. The effect of `<l>` in `vim` allows our cursor to go right. Then I used the key `<delete>` and then pressed 2 so that the code correctly incremented.  Since the bug is fixed, I typed `:wq!` to save the changes we made and quit. 
 
 ## Step 8
 ![Image](logieng6.jpg)
